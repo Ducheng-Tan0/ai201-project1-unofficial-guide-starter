@@ -10,7 +10,8 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+Mathematics professor and course reviews of mathematics department at New York University. This knowledge is valuable because official university sources only list course descriptions — the real information about exam style, grading, and what actually helps students succeed lives in student reviews 
+and forum posts that are scattered and hard to search.
 ---
 
 ## Documents
@@ -20,14 +21,14 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
+| 1 | Rate My Professor |  Mathematics Department at NYU - Michael Shelley  | https://www.ratemyprofessors.com/professor/1085124|
+| 2 | Rate My Professor | Department at NYU  - Liming Pang | https://www.ratemyprofessors.com/professor/2291493 |
+| 3 | Rate My Professor |  Department at NYU  - John Chiarelli |https://www.ratemyprofessors.com/professor/2721237|
+| 4 | Rate My Professor | Department at NYU  - Julius_Damarackas | https://www.ratemyprofessors.com/professor/2742712 |
+| 5 | Rate My Professor | Department at NYU  - Jose_Diaz-Alban| https://www.ratemyprofessors.com/professor/805403 |
+| 6 | Reddit |r/nyu | https://www.reddit.com/r/nyu/comments/1s5zg5g/nyu_courant_pure_math_ms_advice/|
+| 7 | Reddit | r/nyu  | https://www.reddit.com/r/nyu/comments/rhfnnk/is_nyu_mathematics_really_that_good/ |
+| 8 | Reddit | r/ApplyingToCollege | https://www.reddit.com/r/ApplyingToCollege/comments/1lb12ce/nyu_vs_cmu_math_major/ | 
 | 9 | | | |
 | 10 | | | |
 

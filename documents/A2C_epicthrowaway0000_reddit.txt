@@ -1,0 +1,140 @@
+r/ApplyingToCollege
+•
+1y ago
+epicthrowaway0000
+
+NYU vs CMU math major
+I just recently got off the waitlist for NYU, but I’ve already committed to CMU as a math major. I have a friend from high school who’s going to NYU, but I’ve already got a roommate and got myself situated with CMU (tho ig i could change if i really wanted to). I’m also planning to do a comp sci minor.
+
+NYU is ranked higher than CMU in math, but I’m curious what the difference is between them at the undergraduate level, and whether dropping everything and going to NYU instead is worth it.
+
+
+epicthrowaway0000
+OP
+•
+1y ago
+update: i ended up sticking with cmu, thanks for everyones input
+
+2
+u/pa982 avatar
+pa982
+•
+1y ago
+Assuming cost has no bearing on your decision, here are a few factors to consider:
+
+CMU STEM is leagues better than NYU. While NYU's math might be ranked marginally higher, CMU's entire STEM ecosystem -- including physics, computer science, different types of math, so on -- are much, much stronger. As for math specifically, they're both in a tier where rank doesn't really matter anymore.
+
+CMU is really academically taxing. There's a major studyholic culture, but you can work to overcome it if you try. Also, UPitt is across the street so... where there's a will.
+
+NYU does not have a real campus. "The city is your campus" does not work and you have to work really hard to make friends.
+
+CMU holds way more weight in STEM hiring offices, and NYU holds way more weight in finance and the arts. Both are strong in business. If you'd like to pursue an MBA at some point, you can't go wrong either way.
+
+My vote is for CMU, especially if cost is a factor but even if not.
+
+
+21
+Fwellimort
+•
+1y ago
+NYU is much stronger school for math. NYU Applied Math department is regularly top 1~2 in the country.
+
+People have to stop confusing engineering or comp sci with math. Seriously.
+
+I studied math at undergrad. NYU is really strong in math overall. One of my professors in fact did her undergrad at NYU before doing her PhD at UChicago.
+
+That said, NYU is more for traditional math/applied math. CMU is more computer science math (eg: discrete math).
+
+I’m also planning to do a comp sci minor.
+
+It really depends what you want to make out of college. Minors in general are basically worthless for all intent and purposes. And I do mean that. Same with double majors and so forth. These are all for your own intellectual pursuits.
+
+I studied both Comp Sci and Math at Columbia Univ. Trust me when I say this. NYU is very well known in the math community. Especially Courant (the grad school).
+
+ whether dropping everything and going to NYU instead is worth it.
+
+If the prices are quite different, attend the more affordable school.
+
+Otherwise, I would recommend NYU in this case as someone who studied math as well. NYU faculty in math is really really really good. Plus, isn't it super easy to switch majors to Comp Sci at NYU? Did things change since then? I'm fairly sure CMU goes the other way. If you decide you really want to major in CS after realizing math isn't for you, there's that option as well.
+
+
+17
+u/internet_poster avatar
+internet_poster
+•
+1y ago
+I have a PhD in math. NYU’s strength is almost strictly limited to applied math at the graduate level (via Courant). There are actually some similarities between the institutions at the graduate level; CMU is also much stronger in applied math than pure math, and not just “CS math” but also PDE, analysis, etc. The more salient point for undergraduate admissions is that CMU has been able to attract substantially better undergraduates, as they have been a top ~5 Putnam school for a decade and a half at this point and I don’t think NYU has cracked the top 10 since 2000 at least (CMU is also exceptional in related areas like CS/ACM). In general I don’t think of NYU as being a top 20 program for undergraduate math.
+
+There are a few aspects to this: first, top firms recruit more at CMU than NYU, especially in tech. Second, even in academia, being a top undergrad at CMU means more for the purposes of grad admissions (grad admissions committees are aware of e.g. the Putnam results). Third, the peer effects are better at CMU if you are good enough to take advantage of them (and it’s not just peer effects — it’s also the product of Po-Shen Loh both recruiting and training top talent there).
+
+2
+u/pa982 avatar
+pa982
+•
+1y ago
+Applied Math? CMU Applied Math is #10, NYU is #8. Anything else STEM, CMU dominates. When the difference in ranking is so slim, you lean with what's better for your career goals. In this case, that's clearly CMU.
+
+I have a sneaking suspicion you have ties to NYU or New York City.
+
+EDIT: I see that NYU's Applied Math is #2 where the whole Mathematics department is #8. That was my mistake, but it's also well understood that when you're in the top 10, the difference is marginal.
+
+-1
+ExecutiveWatch
+•
+1y ago
+Nyu for math. If that's what you really want to do.
+
+8
+u/Medical_Reply8120 avatar
+Medical_Reply8120
+•
+1y ago
+Don’t kid yourself. CMU math has way stronger talents than NYU, especially at undergrad level. CMU has had 2nd most number of students finishing in Putnam top 500 for the past decades or so, so only behind MIT. NYU courant is mainly for grad level and their undergrad student quality is not on par with that at CMU. Period.
+
+4
+
+u/Careful_Process2391 avatar
+Careful_Process2391
+•
+1y ago
+Hi quick question, when did you get off?
+
+
+1
+epicthrowaway0000
+OP
+•
+1y ago
+june 12th
+
+
+1
+u/Careful_Process2391 avatar
+Careful_Process2391
+•
+1y ago
+Are you committing?
+
+
+1
+epicthrowaway0000
+OP
+•
+1y ago
+no i stuck with cmu
+
+1
+u/Large-Gift-3184 avatar
+Large-Gift-3184
+•
+1y ago
+Consider campus culture and connections, not just rankings; both have strong programs.
+
+4
+u/SmolaniAshki avatar
+SmolaniAshki
+•
+1y ago
+NYU's strength in math is primarily at the graduate level. Unless you're scared about the competition and rigor at CMU, go there. Although 99% of the top like 100 or even 200 schools will have nearly identical math instruction. Off the top of my head, barring specialized programs at random schools, the only exceptions are like MIT, Caltech, and UChicago.
+
+2

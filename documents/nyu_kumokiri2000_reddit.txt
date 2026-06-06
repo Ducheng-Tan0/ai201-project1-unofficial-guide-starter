@@ -1,0 +1,101 @@
+5y ago
+kumokiri2000
+
+Is NYU mathematics really THAT good?
+Hi all, I just got accepted as a math major in CAS, and google told me NYU ranked #9 in mathematics and #1 in applied mathematics research. 
+Is that really the case? I'm kinda scared right now since I'm not the sharpest tool in the shed and a top-tier curriculum might stress me out.
+
+jkim0115
+•
+5y ago
+While undergrad math is not as highly regarded as the grad math and phd math, it is still not an easy major.
+
+I know some people that graduated with math and they are extremely smart, dont expect a 3.7+ unless u are really good
+
+32
+kockaan
+•
+5y ago
+My personal experience has been generally positive. Some of the professors are top tier.
+
+24
+[deleted]
+•
+5y ago
+Just some word of caution on using rankings.
+
+To parse the most useful information out of rankings you need to specify which rankings as there are more than one.
+
+....and google told me NYU ranked #9 in mathematics ....
+
+As NYU is an American institute, US World News is most go-to rankings people cite but there are other popular rankings such as but not limited to QS, Times Higher Education, ARWU.
+
+Each of these have their own methodology and metrics for gauging and ranking schools. Check out what these methodologies are and why NYU got the ranking it did.
+
+Did they specifically cite the school's undergraduate program, computed placement rates for math majors at top institutes, and used other reasonable proxies for the math program the school offers to it's undergrads?
+
+Or, the ranking is due to research output, citations by faculty, association with awards & such, grants the school secures, which mostly relates to grad programs.
+
+This seems to be the case for the applied mathematics ranking you cited as you mentioned research and the undergraduate program has no contribution to research typically.
+
+Obviously grad and undergrad are not fully independent and it is not uncommon for excellent grad programs to trickle down to solid undergrad experience, but that's far from an one-to-one correspondence.
+
+Oh, congrats for getting in!
+
+9
+u/AttentionExtra5595 avatar
+AttentionExtra5595
+•
+5y ago
+no, graduate math at courant is top tier but undergrad math is just ok
+
+14
+Italophobia
+•
+5y ago
+You can declare a different major if you want or find something else interesting. Minoring in math at CAS only requires like 4-5 classes. Got a 4/5 on AB or BC calc? It becomes 3/4.
+
+4
+[deleted]
+•
+5y ago
+It can be as hard as you want or as easy as you want. If you want it to be easy, you can take easy electives like ODE and substitute some of your electives with computer science classes, say basic algorithms. If you want it to be hard, you can take the honors version of all the classes, and then take graduate level classes. Actually if you want it to be easy, you can also take graduate classes; you just need to choose wisely :)
+
+
+6
+kockaan
+•
+5y ago
+Oh boy if you think basic algorithm is “basic” youre soo wrong. Its 10 times more harder than lineat algebra to compare
+
+
+0
+[deleted]
+•
+5y ago
+It’s still much easier than the other math electives, say algebra 2 or probability.
+
+
+1
+DreamAlice
+•
+5y ago
+Think people downvoting don’t realize that college algebra =/ high school algebra.
+
+
+6
+u/ThinVast avatar
+ThinVast
+•
+5y ago
+people still wont get until you say the whole name.
+
+abstract algebra =/= highschool algebra
+
+4
+DreamAlice
+•
+5y ago
+Hey, as a current undergraduate looking into rigorous mathematics graduate courses to take (the non-easy ones), do you have any suggestions? I don't really know what field of math I'd like to specialize in so I'm just open to any suggests as long as NYU allows for undergraduate to take them.
+
+1
