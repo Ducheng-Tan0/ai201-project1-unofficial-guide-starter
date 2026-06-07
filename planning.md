@@ -11,7 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 Mathematics professor and course reviews of mathematics department at New York University. This knowledge is valuable because official university sources only list course descriptions — the real information about exam style, grading, and what actually helps students succeed lives in student reviews 
-and forum posts that are scattered and hard to search.
+and forum posts that are scattered and hard to search. Also the reddit text files are expremely helpful to truly understand the process and outcome of being a math major in nyu. 
 ---
 
 ## Documents
