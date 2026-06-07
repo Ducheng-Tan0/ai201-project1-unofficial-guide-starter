@@ -29,8 +29,8 @@ and forum posts that are scattered and hard to search.
 | 6 | Reddit |r/nyu | https://www.reddit.com/r/nyu/comments/1s5zg5g/nyu_courant_pure_math_ms_advice/|
 | 7 | Reddit | r/nyu  | https://www.reddit.com/r/nyu/comments/rhfnnk/is_nyu_mathematics_really_that_good/ |
 | 8 | Reddit | r/ApplyingToCollege | https://www.reddit.com/r/ApplyingToCollege/comments/1lb12ce/nyu_vs_cmu_math_major/ | 
-| 9 | | | |
-| 10 | | | |
+| 9 | Quora | How are Math majors at Courant Institute compared to the rest of the students at NYU?| https://www.quora.com/How-are-Math-majors-at-Courant-Institute-compared-to-the-rest-of-the-students-at-NYU |
+| 10 | Reddit  | r/nyu | https://www.reddit.com/r/nyu/comments/1j3p0z2/in_my_freshman_year_of_undergrad_right_now_and_im/  |
 
 ---
 

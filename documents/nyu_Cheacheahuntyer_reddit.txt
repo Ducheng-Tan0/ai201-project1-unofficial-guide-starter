@@ -1,0 +1,116 @@
+In my freshman year of undergrad right now and I'm considering switching to a math major at CAS how would the job opportunities look if I did this but paired with another major like econ or data science?
+Title basically, also how is the math major? Is it too hard? Is it interesting? Is it as good as the grad program? Can I start taking graduate courses early after finishing all the undergraduate courses? 
+Do you know anyone who has graduated with a math degree and what kind of jobs did they end up working? How is finance recruiting with this degree?
+
+
+
+levu12
+•
+1y ago
+Math major is extremely hard, which is why it’s so good and popular. If you really like math, get through the weeder courses unscathed, then it may be for you.
+
+That’s subjective, and the two are wildly different, but it’s for sure good.
+
+Yes, many talented undergrads do that.
+
+Decent, the top 0.1 percent work at hedge funds or quant firms, the good ones work as analysts or any other math-related finance jobs you can think of at some big company.
+
+
+6
+Cheacheahunter
+OP
+•
+1y ago
+thanks for the reply! say i graduate with like a 3.6-3.7 would i need a higher gpa to be considered for finance analyst positions?
+
+
+0
+levu12
+•
+1y ago
+It’s not the GPA, apply to internships and do the networking events and do well on the interviews. Even passing through the honors math degree is difficult.
+
+
+3
+Cheacheahunter
+OP
+•
+1y ago
+alright that makes sense, you think masters is really necessary to get a job with a nyu math degree?
+
+
+1
+levu12
+•
+1y ago
+Not at all? Most people don’t get a masters.
+
+2
+Continue this thread
+GOTWlC
+•
+1y ago
+Math major is good but hard. It will likely pay off. Yes you can take grad courses after you finish your undergrad courses. I also highly recommend taking the data science major, as it will help with job opportunities. Don't take econ. Econ at cas is also (unnecessarily) hard, and also as a field it's pretty dead overall.
+
+Generally you can get an analyst position out of undergrad as long as you have some internships. However, if you're looking to get into quant which I suspect you are, either be a genius or keep a high (3.85+) gpa and apply to grad (phd) math programs. I'd recommend having 2-3 papers before you apply to grad school to maximize chances. Suck off the math profs in the grad courses if you can.
+
+
+2
+Cheacheahunter
+OP
+•
+1y ago
+Hey, thanks for the reply! I was also considering data science as well, for a time I was planning on doing economics and data science, but math + data science doesn't seem bad at all, I do think that the math major is an overall more prestigious, and better-ranked major than econ, but econ places well in not just IB but a lot of finance jobs as well no? That's why I wanted to keep economics somewhat in the mix.
+
+
+1
+GOTWlC
+•
+1y ago
+Unfortunately I can't help you there, you will need to talk to an econ major regarding job opportunities specific to econ.
+
+1
+fluffycatsinabox
+•
+1y ago
+Can I start taking graduate courses early after finishing all the undergraduate courses?
+
+Pretty confident you can do this, yes- some of the strongest students in my graduate Machine Learning class (CS department, proofs-heavy) were undergrads.
+
+
+1
+Cheacheahunter
+OP
+•
+1y ago
+oh that's really cool, and great to hear lol thanks for responding! Do you know anything about the other stuff I asked?
+
+
+1
+fluffycatsinabox
+•
+1y ago
+I can't speak too much for undergrad unfortunately (I did a completely different undergrad and then CS Masters), but I'm sure you'll get some good answers. Also, please bear in mind that I'm about 5-6 years removed from school, so things might be different now.
+
+If you're looking to do the finance route, Millenium used to do on campus interviews.
+
+Also, you probably have this in mind already, but taking some CS courses can't hurt (the more project heavy, the better). I hate that "learn to code" is a meme but you're almost certainly going to be programming in the near future. The "big data" courses (predictive analytics, the hadoop class, the spark class) in the CS department used to always have a few undergrads, and the workload is extremely manageable (to be honest these classes were very light by graduate standards).
+
+
+2
+Cheacheahunter
+OP
+•
+1y ago
+I'm actually a CS major right now! So I know how to code a good amount of Python and java but I've just lost interest in the major and I've been hovering more toward economics/math. I've been doing some projects in my free time just to boost up my resume for that exact reason.
+
+But still regardless, thank you so much for your input.
+
+1
+u/bun_stop_looking avatar
+bun_stop_looking
+•
+1y ago
+Man if you’re at NYU and good at math I’d just major in whatever gives you the best shot of working at a hedge fund
+
+1

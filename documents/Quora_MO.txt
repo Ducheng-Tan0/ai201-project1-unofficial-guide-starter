@@ -1,0 +1,58 @@
+How are Math majors at Courant Institute compared to the rest of the students at NYU?
+
+2 Answers
+Sort
+Profile photo for Mo McBirney
+Mo McBirney
+Mechanical Engineer, Technical Program Manager11y
+I studied math at NYU as an undergrad from 2009-2014. I would say that being a math major definitely sets you apart from other NYU students since STEM majors are not as common as they might be at other schools. However, in the College of Arts and Science (of which Courant is a part of) you're required to take a certain amount of core requirements (equivalent to writing, history, science, etc.). This helps undergraduate students find common ground with each other academically since everyone is required to take all of these core classes. As for the math classes, their difficulty peaks around junior year when you have to take Analysis and Algebra, which can be extremely difficult for students who are not used to the structure of theoretical math classes. However, it is still possible to have a normal social life and be a math major, you might just have to put in some extra work (going to office hours with your professor, getting tutoring) for the more difficult major courses. If you really love math and you're cut out to be a math major, you will figure this out within the first few math classes that you take at NYU. If you decide it's not for you, you'll still be able to use the math classes towards your core math requirement and switch majors (within the College of Arts and Science) to something that suits you better. Some people who start out as math majors switch to Economics or Computer Science since they are also very analytical areas of study.
+
+In summary, if you truly enjoy complex mathematics and also like to be surrounded by people who are very creative and have majors that are completely different from yours, you will do well as a math major at NYU.
+
+
+Profile photo for Assistant
+Assistant
+Bot8mo
+Courant Institute math majors are widely regarded as a distinct subpopulation within NYU for academic rigor, research orientation, and culture. Comparison can be summarized across objective markers, academic experience, career outcomes, and social culture.
+
+Academic profile and selectivity
+
+Admissions: Courant (especially pure/applied math and mathematics-physics tracks) admits students with very strong quantitative profiles — high math SAT/ACT scores historically, top grades in advanced math courses, and often math competition experience. Incoming cohorts are, on average, more mathematically prepared than the broader NYU undergraduate body.
+Coursework intensity: Courant’s core sequences are faster-paced and more theorem-focused than typical university math majors. Students encounter rigorous proof-based classes early (real analysis, abstract algebra, topology), extensive problem sets, and optional advanced topics (PDEs, spectral theory, stochastic processes) at undergraduate level.
+Faculty: High faculty research intensity and international reputation. Undergraduates have greater access to research-active professors, seminars, and advanced topics than many liberal-arts–style math programs.
+Academic environment and culture
+
+Peer cohort: A culture of strong peers who push one another on problem sets, competitions, and research. This yields high standards and frequent collaboration on hard problems.
+Workload and expectations: Heavier weekly problem set loads and more frequent high-stakes midterms/qualifying-like exams in some tracks than average NYU majors.
+Cross-disciplinary orientation: Strong connections to computer science, physics, finance, and data science. Many students take rigorous CS/physics/engineering courses alongside math.
+Research and opportunities
+
+Undergraduate research: More plentiful and accessible research opportunities (REUs, independent study, honors theses) with active faculty. Lab/PI-style research is less common than pure-math mentorship, but applied math and probability/stats students find industry-relevant projects.
+Seminars and colloquia: Regular research talks and advanced seminars open to undergrads — uncommon among general undergraduate programs.
+Career outcomes and placement
+
+Graduate school: Higher fraction matriculate to top PhD programs in mathematics, statistics, theoretical CS, and related fields compared with the broader NYU population.
+Industry placement: Strong pipelines into quantitative finance, data science, software engineering, and analytics roles. Recruiters target Courant for quant and advanced-data roles more often than average NYU majors.
+Salary and trajectory: Early-career compensation tends to skew higher on average due to quantitative-specialist hires, though outcomes vary by student choices (academia vs industry).
+Comparison with other strong NYU schools/departments
+
+Versus CAS liberal-arts majors: Courant is more mathematically rigorous and research-focused; CAS may offer broader interdisciplinary and humanities exposure.
+Versus NYU Stern: Stern outperforms for business/finance internships and corporate recruiting networks; Courant competes specifically for quant finance roles where deep math is prized.
+Versus Courant-adjacent CS/engineering at NYUAD or Tandon: Overlap exists; CS majors may have broader industry placement in software, while Courant students have edge for theoretical roles and quantitative modeling.
+Student experience and fit
+
+Best fit: Students who enjoy proofs, deep theoretical challenge, and research; who tolerate heavy workloads and thrive in intense peer environments.
+Less well suited: Students seeking a lightened major, broad liberal-arts balance, or primarily social/creative campus life may find Courant’s environment overly intense.
+Social life: Smaller, academically intense community with clubs oriented around math competitions, research groups, and technical meetups; broader NYU social scenes are still accessible.
+Examples and typical trajectories
+
+Typical success stories: Undergraduate publishes a paper in probability or PDEs, then enters a top PhD program; or a Courant grad enters a quant desk at a major bank or a data-science role at a FAANG company.
+Typical alternatives among NYU: CAS humanities majors go into media, policy, arts; Stern grads join consulting, banking, or corporate roles; Tandon/CS grads fill software engineering pipelines.
+Practical implications when choosing NYU
+
+If your priority is depth in mathematics, strong mentorship, research, and quantitative career paths — Courant is substantially stronger than average NYU majors.
+If you want a broader liberal-arts experience, lighter workload, or a business-centric recruiting network, other NYU schools may align better.
+Cross-enrollment: NYU’s structure lets students combine strengths (e.g., double-major with economics or CS), but expect heavier requirements and careful planning.
+Sources and temporal note
+
+Assessment reflects program structure, faculty reputation, and typical outcomes current through May 2024. Recent curricular tweaks or cohort variations may slightly shift details but not the core distinctions described above.
