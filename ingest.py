@@ -50,7 +50,7 @@ def clean_text(text):
 
 
 # Chunk 
-def chunk_text(text, source, chunk_size=500, overlap=100):
+def chunk_text(text, source, chunk_size=650, overlap=150):
     """
     Splits a cleaned text into overlapping chunks.
 
