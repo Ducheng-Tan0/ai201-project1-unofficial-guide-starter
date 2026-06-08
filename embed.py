@@ -107,8 +107,10 @@ def test_retrieval():
     # These are 3 of your 5 evaluation plan questions
     test_queries = [
         "What are Professor Michael Shelley's assessments like?",
-        "How are Professor Liming Pang's lectures?",
-        "What are the difficulties of being a math major at NYU?"
+         "What do students say about Pang exams and grading curve?",
+        "What are the difficulties of being a math major at NYU?",
+            "What is it like being a math major at NYU Courant?",
+    "Should I choose NYU for mathematics compared to other schools?"
     ]
     
     for query in test_queries:
@@ -147,6 +149,24 @@ def test_retrieval():
         
         print()
 
+def inspect_source(source_filename):
+    """
+    Prints all chunks that came from a specific file.
+    Useful for checking if header junk got embedded.
+    """
+    results = collection.get(
+        where={"source": source_filename}
+    )
+    
+    print(f"\nAll chunks from: {source_filename}")
+    print("=" * 60)
+    
+    for i, (doc, meta) in enumerate(
+        zip(results["documents"], results["metadatas"])
+    ):
+        print(f"\nChunk {meta['chunk_index']}:")
+        print(doc[:300])
+        print("-" * 40)
 
 # ── MAIN ──────────────────────────────────────────────────
 if __name__ == "__main__":
@@ -157,6 +177,7 @@ if __name__ == "__main__":
     
     # Embed and store all chunks
     embed_and_store(all_chunks)
+    inspect_source("prof_Liming_Pang_rmp.txt")
     
     # Test retrieval with your evaluation questions
     test_retrieval()

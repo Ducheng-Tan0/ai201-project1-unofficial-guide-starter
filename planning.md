@@ -117,10 +117,20 @@ highly varied informal language.
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | What are Professor Michael Shelley's class assessment process of the course | Mainly grades test and midterms and around 4 homework assignments that is graded, so student will be assessed by a few things only |
-| 2 | How is Professor Liming Pang's lectures ? | Very heavy proof based lectures |
-| 3 | What are some unqiue experiences of being a math major at NYU | Being a math major definitely sets you apart from other NYU students since STEM majors are not as common as they might be at other schools. If you truly enjoy complex mathematics and also like to be surrounded by people who are very creative and have majors that are completely different from yours, you will do well as a math major at NYU.| 
-| 4 | What are difficulties of the major? | Some say it is extremely hard as you will be surrounde by top math students andd you will need to be good to maintain 3.6 - 3.7 GPA |
-| 5 | How are the professor in general ? | Top notch professors and highly cited and respected.  |
+| 2 | What do students say about Pang's exams and grading curve? | 
+Students say exams are straightforward, practice exams are harder 
+than actual exams, and there is a generous curve at end of semester |
+| 3 | What are the difficulties of being a math major at NYU? | 
+Extremely rigorous, proof heavy, surrounded by top students, 
+need 3.6-3.7 GPA to stand out |
+
+| 4 | What is it like being a math major at NYU Courant? | 
+Sets you apart from other NYU students, STEM is uncommon at NYU, 
+creative environment, heavy workload |
+
+| 5 | Should I choose NYU for mathematics compared to other schools? | 
+Courant is highly respected, strong for pure math and research, 
+free MS program mentioned, 30-40% go to PhD |
 
 ---
 
