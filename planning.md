@@ -187,7 +187,7 @@ Raw .txt files in documents/ folder
 │   - sentence-transformers   │
 │   - Model: all-MiniLM-L6-v2 │
 │   - Each chunk → 384-dim    │
-│     vector in ℝ³⁸⁴          │
+│     vector in R³⁸⁴          │
 └─────────────────────────────┘
          │
          ▼
