@@ -2,7 +2,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from ingest import run_pipeline
 
-# ── SETUP ─────────────────────────────────────────────────
+# SETUP
 # Load the embedding model
 # This downloads ~80MB the first time, then caches locally
 print("Loading embedding model...")
@@ -17,11 +17,11 @@ client = chromadb.Client()
 # regular database, but instead of rows it stores vectors
 collection = client.create_collection(
     name="nyu_math_reviews",
-    metadata={"hnsw:space": "cosine"}  # use cosine similarity
+    metadata={"hnsw:space": "cosine"} 
 )
 
 
-# ── STEP 1: EMBED AND STORE ───────────────────────────────
+# 1: EMBED AND STORE 
 def embed_and_store(chunks):
     """
     Takes all chunks from ingest.py and:
@@ -34,7 +34,7 @@ def embed_and_store(chunks):
     print(f"Embedding {len(chunks)} chunks...")
     print("This may take 1-2 minutes on first run.\n")
 
-    # We process in batches of 50 to avoid memory issues
+   
     batch_size = 50
     
     for i in range(0, len(chunks), batch_size):
@@ -72,7 +72,7 @@ def embed_and_store(chunks):
     print(f"\nAll {len(chunks)} chunks embedded and stored.\n")
 
 
-# ── STEP 2: RETRIEVE ──────────────────────────────────────
+# 2. RETRIEVE 
 def retrieve(query, k=5):
     """
     Takes a plain English question and finds the
@@ -96,7 +96,7 @@ def retrieve(query, k=5):
     return results
 
 
-# ── STEP 3: TEST RETRIEVAL ────────────────────────────────
+# 3. TEST RETRIEVAL 
 def test_retrieval():
     """
     Runs 3 of your evaluation plan questions through
@@ -168,16 +168,16 @@ def inspect_source(source_filename):
         print(doc[:300])
         print("-" * 40)
 
-# ── MAIN ──────────────────────────────────────────────────
+# MAIN 
 if __name__ == "__main__":
+    # This block ONLY runs when you type: python embed.py
+    # It does NOT run when another file imports from embed.py
     
-    # Load chunks from your ingest pipeline
     print("Running ingestion pipeline...")
     all_chunks = run_pipeline()
     
-    # Embed and store all chunks
     embed_and_store(all_chunks)
+    
     inspect_source("prof_Liming_Pang_rmp.txt")
     
-    # Test retrieval with your evaluation questions
     test_retrieval()

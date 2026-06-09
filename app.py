@@ -1,7 +1,7 @@
 import gradio as gr
 from query import ask
 
-# ── HANDLER FUNCTION ──────────────────────────────────────
+#  HANDLER FUNCTION 
 def handle_query(question):
     """
     Called every time the user clicks Ask or presses Enter.
@@ -27,7 +27,7 @@ def handle_query(question):
     return result["answer"], sources
 
 
-# ── BUILD THE INTERFACE ───────────────────────────────────
+# BUILD THE INTERFACE 
 with gr.Blocks(
     title="NYU Math Unofficial Guide",
     theme=gr.themes.Soft()
@@ -91,7 +91,7 @@ with gr.Blocks(
     )
 
 
-# ── LAUNCH ────────────────────────────────────────────────
+# LAUNCH 
 if __name__ == "__main__":
     print("Starting NYU Math Unofficial Guide...")
     print("Open your browser to: http://localhost:7860")

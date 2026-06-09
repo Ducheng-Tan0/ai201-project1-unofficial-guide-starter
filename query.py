@@ -28,7 +28,7 @@ def initialize_pipeline():
         print("Pipeline ready.\n")
 
 
-# ── PROMPT TEMPLATE ───────────────────────────────────────
+# PROMPT TEMPLATE 
 def build_prompt(question, chunks, sources):
     """
     Builds the prompt that gets sent to the LLM.
@@ -138,7 +138,7 @@ def ask(question):
     }
 
 
-# ── TEST GROUNDING ────────────────────────────────────────
+# TEST GROUNDING
 def test_grounding():
     """
     Tests 3 queries end-to-end to verify grounding.
