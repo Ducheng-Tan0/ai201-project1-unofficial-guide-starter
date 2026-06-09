@@ -144,11 +144,21 @@ In addition there are bench mark questions that are listed as example on the bot
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | What are Professor Michael Shelley's class assessment process of the course | Mainly grades test and midterms and around 4 homework assignments that is graded, so student will be assessed by a few things only | Professor Michael Shelley's class assessment process includes exams that are considered doable if one goes through his lecture notes carefully, and the homework and textbook are also part of the assessment. The textbook is not very helpful, and it's recommended to rely on the professor's lecture notes. The class is described as lecture-heavy and test-heavy. The professor does give points where he can on exams. (Source: prof_Michael_Shelley_rmp.txt, Documents 1, 2, 4) | Relevant | Partially accurate | 
+| 2 | What do students say about Pang's exams and grading curve? | 
+Students say exams are straightforward, practice exams are harder 
+than actual exams, and there is a generous curve at end of semester | According to the documents, students say that Professor Pang's exams are "very straightforward" and "most of the questions are of similar difficulty to the textbook's problems" (Source: prof_Liming_Pang_rmp.txt). Additionally, it is mentioned that "Practice exams are MUCH harder than the actual exam" (Source: prof_Liming_Pang_rmp.txt). There is no explicit mention of a grading curve for Professor Pang's course in the provided documents. | Relevant | Accurate | 
+| 3 | What are the difficulties of being a math major at NYU? | 
+Extremely rigorous, proof heavy, surrounded by top students, 
+need 3.6-3.7 GPA to stand out | Being a math major at NYU can be challenging. It is mentioned that the undergrad math major is "not an easy major" and that one should not expect a high GPA (3.7+) unless they are "really good" (Source: nyu_kumokiri2000_reddit.txt). Additionally, it is stated that "Most people don’t get a masters" and that the math major is "good but hard" (Source: nyu_Cheacheahuntyer_reddit.txt). Furthermore, it is noted that even passing through the honors math degree is difficult (Source: nyu_Cheacheahuntyer_reddit.txt). 
+
+It is also implied that the curriculum might be stressful, with one student expressing concern about being able to handle a "top-tier curriculum" (Source: nyu_kumokiri2000_reddit.txt). Overall, the difficulties of being a math major at NYU seem to stem from the challenging coursework and high academic standards. | Relevant |Accurate|
+| 4 | What is it like being a math major at NYU Courant? | 
+Sets you apart from other NYU students, STEM is uncommon at NYU, 
+creative environment, heavy workload | Being a math major at NYU Courant sets you apart from other NYU students, as STEM majors are not as common as they might be at other schools. Math majors at Courant are widely regarded as a distinct subpopulation within NYU for academic rigor, research orientation, and culture. They admit students with very strong quantitative profiles and have a research-oriented approach. If you truly enjoy complex mathematics and like to be surrounded by people who are very creative and have majors that are completely different from yours, you will do well as a math major at NYU. (Source: Document 1 — Quora_MO.txt, Document 3 — Quora_MO.txt, Document 4 — Quora_MO.txt) | Relevant | Accurate |
+| 5 | Should I choose NYU for mathematics compared to other schools? | 
+Courant is highly respected, strong for pure math and research, 
+free MS program mentioned, 30-40% go to PhD | You should consider choosing NYU for mathematics, especially if you're interested in traditional math or applied math. NYU is a strong school for math, with its Applied Math department regularly ranking top 1-2 in the country (Source: A2C_epicthrowaway0000_reddit.txt). The faculty in math at NYU is also highly regarded (Source: A2C_epicthrowaway0000_reddit.txt). However, it's worth noting that other schools, such as CMU, may have a stronger overall STEM ecosystem (Source: A2C_epicthrowaway0000_reddit.txt). Ultimately, the decision depends on your individual priorities and circumstances, such as cost and your specific interests within math (Source: A2C_epicthrowaway0000_reddit.txt). | Relevant | Accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -169,13 +179,17 @@ In addition there are bench mark questions that are listed as example on the bot
      results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
+What are Professor Michael Shelley's class assessment process of the course
 
 **What the system returned:**
+Professor Michael Shelley's class assessment process includes exams that are "quite doable if went through his lecture notes carefully" (Source: Document 4 — prof_Michael_Shelley_rmp.txt), and the class is described as "Lecture heavy Test heavy" (Source: Document 2 — prof_Michael_Shelley_rmp.txt). The assessment also includes homework, as one review mentions that "the hw" is part of the class (Source: Document 2 — prof_Michael_Shelley_rmp.txt). Additionally, the class is "Graded by few things" (Source: Document 2 — prof_Michael_Shelley_rmp.txt).
 
 **Root cause (tied to a specific pipeline stage):**
+I rate the system to be partially accurate as it did not have the specific amount of assessements in details like 
+the answer suggested. 
 
 **What you would change to fix it:**
-
+It could be that the question is to vague and I made need to change the question to be less subjective. 
 ---
 
 ## Spec Reflection
@@ -184,8 +198,11 @@ In addition there are bench mark questions that are listed as example on the bot
      Answer both questions with at least 2–3 sentences each. -->
 
 **One way the spec helped you during implementation:**
+The spec are important to look back at during implementation so the pipline will stay on track. 
 
 **One way your implementation diverged from the spec, and why:**
+
+From a point of view I would argue it did not diverge from the spec. 
 
 ---
 
@@ -201,13 +218,73 @@ In addition there are bench mark questions that are listed as example on the bot
      chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
 
 **Instance 1**
-
-- *What I gave the AI:*
+*What I gave the AI:* Tell me where to change in app.py such that when I run it the website can be popped up by itself without manually pasting in the link. [app.py pasted in LLM]
 - *What it produced:*
+Find this line at the very bottom of app.py:
+pythondemo.launch()
+Change it to:
+pythondemo.launch(inbrowser=True)
+That single parameter tells Gradio to automatically open your default browser to http://localhost:7860 the moment you run python app.py. No manual copying needed.
 - *What I changed or overrode:*
+Added inbrowser=True into the launch function in the app.py
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* Please help construct a python script that will read in a list of documents from a folder and counts character and word counts with and without character overlap. Then in the output print the corresponding number of chunks for a given number of words allowed in a chunk. 
+- *What it produced:* import os
+
+
+"""  This small script was used to calculate the correct amount of chunks to use. """
+def analyze_documents(folder="documents/"):
+    print("=" * 50)
+    print("DOCUMENT ANALYSIS")
+    print("=" * 50)
+    
+    total_chars = 0
+    total_words = 0
+    file_count = 0
+    
+    for filename in sorted(os.listdir(folder)):
+        if filename.endswith(".txt"):
+            filepath = os.path.join(folder, filename)
+            
+            with open(filepath, "r", encoding="utf-8") as f:
+                text = f.read()
+            
+            char_count = len(text)
+            word_count = len(text.split())
+            line_count = len(text.splitlines())
+            
+            # Estimate how many 500-char chunks this makes
+            # With 100 overlap, effective step size is 400 per chunk
+            # so we divide by 400 to account for overlap
+            estimated_chunks = max(1, char_count // 400)
+            
+            print(f"\nFile: {filename}")
+            print(f"  Characters : {char_count}")
+            print(f"  Words      : {word_count}")
+            print(f"  Lines      : {line_count}")
+            print(f"  Est. chunks: ~{estimated_chunks} chunks")
+
+            # These three lines are now INSIDE the if block
+            total_chars += char_count
+            total_words += word_count
+            file_count += 1
+
+    print("\n" + "=" * 50)
+    print("OVERALL SUMMARY")
+    print("=" * 50)
+    print(f"Total files     : {file_count}")
+    print(f"Total characters: {total_chars}")
+    print(f"Total words     : {total_words}")
+    print(f"Avg chars/file  : {total_chars // max(file_count, 1)}")
+    print(f"Avg words/file  : {total_words // max(file_count, 1)}")
+    print(f"\nEstimated total chunks at 500 chars (no overlap)  : ~{total_chars // 500}")
+    print(f"Estimated total chunks at 500 chars (100 overlap) : ~{total_chars // 400}")
+    print(f"Estimated total chunks at 300 chars (no overlap)  : ~{total_chars // 300}")
+    print(f"Estimated total chunks at 300 chars (50 overlap)  : ~{total_chars // 250}")
+
+analyze_documents()
+
+- *What I changed or overrode:* Overrode a total character per chunk to be set to 500 and 300. 
+
