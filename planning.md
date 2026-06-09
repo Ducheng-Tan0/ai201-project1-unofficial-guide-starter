@@ -114,24 +114,15 @@ highly varied informal language.
 
 
 
-| # | Question | Expected answer |
+## Evaluation Plan
+
+| # | Question | Expected Answer |
 |---|----------|-----------------|
-| 1 | What are Professor Michael Shelley's class assessment process of the course | Mainly grades test and midterms and around 4 homework assignments that is graded, so student will be assessed by a few things only |
-| 2 | What do students say about Pang's exams and grading curve? | 
-Students say exams are straightforward, practice exams are harder 
-than actual exams, and there is a generous curve at end of semester |
-| 3 | What are the difficulties of being a math major at NYU? | 
-Extremely rigorous, proof heavy, surrounded by top students, 
-need 3.6-3.7 GPA to stand out |
-
-| 4 | What is it like being a math major at NYU Courant? | 
-Sets you apart from other NYU students, STEM is uncommon at NYU, 
-creative environment, heavy workload |
-
-| 5 | Should I choose NYU for mathematics compared to other schools? | 
-Courant is highly respected, strong for pure math and research, 
-free MS program mentioned, 30-40% go to PhD |
-
+| 1 | What are Professor Michael Shelley's class assessment processes of the course? | Mainly grades tests and midterms and around 4 homework assignments that are graded, so students will be assessed by a few things only. |
+| 2 | What do students say about Pang's exams and grading curve? | Exams are straightforward, practice exams are harder than actual exams, and there is a generous curve at the end of the semester. |
+| 3 | What are the difficulties of being a math major at NYU? | Extremely rigorous, proof heavy, surrounded by top students, need 3.6-3.7 GPA to stand out. |
+| 4 | What is it like being a math major at NYU Courant? | Sets you apart from other NYU students, STEM is uncommon at NYU, creative environment, heavy workload. |
+| 5 | Should I choose NYU for mathematics compared to other schools? | Courant is highly respected, strong for pure math and research, free MS program mentioned, 30-40% go to PhD. |
 ---
 
 ## Anticipated Challenges
